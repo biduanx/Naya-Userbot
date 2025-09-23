@@ -16,7 +16,7 @@ COPY installer.sh .
 RUN bash installer.sh
 
 # changing workdir
-WORKDIR "/root/naya1503"
+WORKDIR "/root/biduanx"
 
 # start the bot.
 CMD ["bash", "start"]
