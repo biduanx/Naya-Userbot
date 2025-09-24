@@ -30,25 +30,26 @@ from . import ayra_cmd
 
 @ayra_cmd(outgoing=True, pattern=r"^[nN][g][e][n][t][o][t]$")
 async def _(event):
-    await event.eor("**WOYY NGENTOD!!**")
+    await event.eor("Anak aliansi y lu?")
     sleep(1)
-    await event.eor("**JANGAN SOK JAGOAN DAH LU**")
+    await event.eor("Mau nanya")
     sleep(1)
-    await event.eor("**MUKA MASIH KAYA KONTOL AJA**")
+    await event.eor("RIBUT KOK DISOSMED ?")
     sleep(1)
-    await event.eor("**BANGGA LU HAHAHAHA**")
+    await event.eor("AWOAKWOAKWOAK")
     sleep(1)
-    await event.eor("**COBA DEH NGACA MUKA LU KAN HINA BANGET**")
+    await event.eor("Kabur ah...")
     sleep(1)
-    await event.eor("**HAHAHAHA**")
+    await event.eor("Nanti takut Dirosting")
     sleep(1)
-    await event.eor("**MAKANYA GANTENG KONTOL**")
+    await event.eor("Terus Nyuruh semua membernya naik ke os")
+    sleep(1.5)
+    await event.eor("So galak Mic nya ditelen")
     sleep(1)
-    await event.eor("**BIAR MUKALU GAK DIHINA TERUS**")
+    await event.eor("Padahal Di Real Life jadi kacung Tongkrongan")
     sleep(1)
-    await event.eor("**SAMA ORANG LAIN**")
-    sleep(1)
-    await event.eor("**HAHAHAHA**")
+    await event.eor("HAHAHA KONTOL!")
+
 
 
 # Create by myself @localheart
